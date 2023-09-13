@@ -17,3 +17,8 @@ Bascially 4 steps:
  3. Key Exchange, public and private keys.
  4. Data Transmission 
 
+### HTTP1
+
+### HTTP2
+
+### HTTP3
